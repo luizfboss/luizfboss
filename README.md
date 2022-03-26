@@ -3,7 +3,7 @@
 A passionate, creative, and self-motivated coding student seeking opportunities within the field of information technology. Excellent analytical skills, strong history in personal projects and freelance for small companies. Well-rounded, with excellent analytical skills, good teamwork, good communication, problem-solving, and resilient. Nice to meet you! :) 
 
 
-### 
+<br><br><br> 
 
 <div>
   <a href="https://github.com/luizfboss"><a/>
