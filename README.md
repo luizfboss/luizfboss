@@ -1,10 +1,6 @@
 ### Hi, I'm Luiz!
 
-A passionate, creative, and self-motivated coding student seeking opportunities within the field of information technology. Excellent analytical skills, strong history in personal projects and freelance for small companies. Well-rounded, with excellent analytical skills, good teamwork, good communication, problem-solving, and resilient.
-
-Quote to live by: “l hate how many people think “glass half-empty" when their glass is really four-
-fifths full. I'm grateful when I have one drop in the glass because I know exactly what to do with it”
-—Gary Vaynerchuk
+A passionate, creative, and self-motivated coding student seeking opportunities within the field of information technology. Excellent analytical skills, strong history in personal projects and freelance for small companies. Well-rounded, with excellent analytical skills, good teamwork, good communication, problem-solving, and resilient. Nice to meet you! :) 
 
 <div>
   <a href="https://github.com/luizfboss"><a/>
