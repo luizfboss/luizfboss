@@ -1,5 +1,8 @@
 ### Hi, I'm Luiz!
-##
+
+A passionate, creative, and self-motivated coding student with excellent analytical skills. I have been developing algorithms, websites, and applications since 2020 and since then, coding has been part of my life. I've always been fascinated by all different parts of technology I get in touch with, such as Quantum Computing, Data Science, Machine Learning, and Web Development.
+
+
 <div>
   <a href="https://github.com/luizfboss"><a/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfboss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
