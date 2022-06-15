@@ -1,6 +1,4 @@
-### Hi,
-
-I'm Luiz, a passionate, creative, and self-taught coding student from Brazil.
+### Hi, I'm Luiz.
 <br><br>
 ```javascript
 const luiz = {
