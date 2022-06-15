@@ -1,20 +1,18 @@
-### Hi!
+### Hi,
 
-I'm Luiz, a passionate, creative, and self-taught coding student from Brazil. My passion for web development and Data science lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-Excellent analytical skills, strong history in personal projects and freelance for small companies. Well-rounded, with excellent analytical skills, good teamwork, good communication, problem-solving, and resilient. Nice to meet you! :) 
-
-
-Blockchain enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
+I'm Luiz, a passionate, creative, and self-taught coding student from Brazil.
+<br><br>
 ```javascript
 const luiz = {
-  pronouns: "he" | "him",
-  code: [Javascript, Python, HTML, CSS, C#, PHP],
-  tools: [Bootstrap, Qiskit, Git],
+  pronouns: ["he", "him"],
+  code: ["Javascript", "Python", "HTML", "CSS", "C#", "PHP"],
+  tools: ["Bootstrap", "Qiskit", "Git", "VSCode"],
+  current_occupation: "Front-End Developer",
   nationality: "Brazilian",
+  hobbies: ["Read", "Code", "Travel", "Play the Guitar"],
   current_challenge: "Master Data Science concepts within a month.",
-  major_goal: "Become a Data Scientist"
+  major_goal: "Become a Data Scientist."
+  others: "Blockchain/Crypto Enthusiast"
 }
 ```
 
@@ -37,10 +35,9 @@ const luiz = {
  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
-  
-##
-  
-  <div>
-  <a href = "mailto:luiz.fbossetto@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-    <a href = "https://www.linkedin.com/in/luiz-felipe-ferreira-bossetto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+## Get in touch with me: 
+<div>
+<a href = "mailto:luiz.fbossetto@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/luiz-felipe-ferreira-bossetto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
