@@ -1,6 +1,25 @@
 ### Hi, I'm Luiz, a self-taught coding student from Brazil. 
 ##
 
+
+<div>
+  <a href="https://github.com/luizfboss"><a/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfboss&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfboss&layout=compact&langs_count=7&theme=github_dark&hide=jupyter%20notebook"/>
+  
+</div>
+<br>
+<div>
+ <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" />
+ <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" />
+ <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+</div>
+
 <br><br>
 ```javascript
 const luiz = {
@@ -16,26 +35,8 @@ const luiz = {
 }
 ```
 
-<br><br>
 
-<div>
-  <a href="https://github.com/luizfboss"><a/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfboss&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfboss&layout=compact&langs_count=7&theme=github_dark"/>
-  
-</div>
 <br>
-<div>
- <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" />
- <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" />
- <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-</div>
-<br><br>
   
 ## Get in touch with me. Let's talk!
   
