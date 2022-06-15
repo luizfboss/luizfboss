@@ -1,19 +1,35 @@
-### Hi, I'm Luiz!
+### Hi!
 
-A passionate, creative, and self-motivated coding student seeking opportunities within the field of information technology. Excellent analytical skills, strong history in personal projects and freelance for small companies. Well-rounded, with excellent analytical skills, good teamwork, good communication, problem-solving, and resilient. Nice to meet you! :) 
+I'm Luiz, a passionate, creative, and self-taught coding student from Brazil. My passion for web development and Data science lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
+Excellent analytical skills, strong history in personal projects and freelance for small companies. Well-rounded, with excellent analytical skills, good teamwork, good communication, problem-solving, and resilient. Nice to meet you! :) 
+
+
+Blockchain enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+```javascript
+const luiz = {
+  pronouns: "he" | "him",
+  code: [Javascript, Python, HTML, CSS, C#, PHP],
+  tools: [Bootstrap, Qiskit, Git],
+  nationality: "Brazilian",
+  current_challenge: "Master Data Science concepts within a month.",
+  major_goal: "Become a Data Scientist"
+}
+```
 
 <br><br>
 
 <div>
   <a href="https://github.com/luizfboss"><a/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfboss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfboss&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfboss&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfboss&layout=compact&langs_count=7&theme=github_dark"/>
+  
 </div>
 <br>
 <div>
- <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" />
