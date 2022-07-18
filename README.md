@@ -26,11 +26,11 @@ const luiz = {
   pronouns: ["he", "him"],
   code: ["Javascript", "Python", "HTML", "CSS", "C#", "PHP"],
   tools: ["Bootstrap", "Qiskit", "Git", "VSCode"],
-  current_occupation: "Front-End Developer",
+  current_occupation: "College Student",
   nationality: "Brazilian",
   hobbies: ["Read", "Code", "Travel", "Play the Guitar"],
   current_challenge: "Master Data Science concepts within a month.",
-  major_goal: "Become a Data Scientist.",
+  major_goal: "Become a Developer.",
   others: "Blockchain/Crypto Enthusiast"
 }
 ```
