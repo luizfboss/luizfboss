@@ -1,4 +1,4 @@
-### Hi, I'm Luiz, a self-taught coding student from Brazil. 
+### Hi, I'm Luiz, a Computer Science Major from Brazil. 
 ##
 
 
