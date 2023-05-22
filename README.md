@@ -15,6 +15,7 @@
  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" />
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" />
  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" />
  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -24,13 +25,13 @@
 ```javascript
 const luiz = {
   pronouns: ["he", "him"],
-  code: ["Javascript", "Python", "HTML", "CSS", "C#", "PHP"],
+  code: ["Javascript", "Python", "HTML", "CSS", "C#", "C++", "PHP"],
   tools: ["Bootstrap", "Qiskit", "Git", "VSCode"],
   current_occupation: "College Student",
   nationality: "Brazilian",
   hobbies: ["Read", "Code", "Travel", "Play the Guitar"],
-  current_challenge: "Learn ReactJS",
-  major_goal: "Become a Frontend Developer.",
+  current_challenge: "Learn Data Structures and Algorithms",
+  major_goal: "Become a Software Developer.",
   others: "Blockchain/Crypto Enthusiast"
 }
 ```
