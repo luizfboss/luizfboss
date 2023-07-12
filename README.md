@@ -24,8 +24,8 @@
 ```javascript
 const luiz = {
   pronouns: ["he", "him"],
-  code: ["Javascript", "Python", "HTML", "CSS", "C#", "C++", "PHP"],
-  tools: ["Bootstrap", "Qiskit", "Git", "VSCode"],
+  code: ["Javascript", "Python", "HTML", "CSS", "C++", "PHP"],
+  tools: ["Bootstrap", "Qiskit", "React", "Git", "VSCode"],
   current_occupation: "College Student",
   nationality: "Brazilian",
   hobbies: ["Read", "Code", "Travel", "Play the Guitar"],
