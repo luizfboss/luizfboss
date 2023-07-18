@@ -27,7 +27,7 @@ https://luizfboss.github.io/my_portfolio/
 ```javascript
 const luiz = {
   pronouns: ["he", "him"],
-  code: ["Javascript", "Python", "HTML", "CSS", "C++", "PHP"],
+  languages: ["Javascript", "Python", "HTML", "CSS", "C++", "PHP"],
   tools: ["Bootstrap", "Qiskit", "React", "Git", "VSCode"],
   current_occupation: "College Student",
   nationality: "Brazilian",
