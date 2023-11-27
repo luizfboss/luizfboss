@@ -1,4 +1,4 @@
-### Hi, I'm Luiz, a Computer Science Major from Brazil. 
+### Hi, I'm Luiz! A Computer Science Major from Brazil. 
 
 https://luizfboss.github.io/my_portfolio/
 
