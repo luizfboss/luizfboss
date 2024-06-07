@@ -17,6 +17,7 @@ https://luizfboss.github.io/my_portfolio/
  <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" />
  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" />
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg" />
@@ -29,13 +30,13 @@ https://luizfboss.github.io/my_portfolio/
 const luiz = {
   pronouns: ["he", "him"],
   languages: ["Javascript", "Python", "HTML", "CSS", "C++", "PHP", "SQL"],
-  tools: ["Bootstrap", "Qiskit", "React", "Git", "VSCode", "Microsoft Excel"],
+  tools: ["Pytorch", "Bootstrap", "Qiskit", "React", "Git", "VSCode", "Microsoft Excel"],
   current_occupation: "College Student",
   nationality: "Brazilian",
   hobbies: ["Read", "Code", "Travel", "Play the Guitar"],
   current_challenge: "Land an Internship",
   major_goal: "Become a Software Developer.",
-  others: "Blockchain Enthusiast"
+  others: "Deep Learning"
 }
 ```
 
