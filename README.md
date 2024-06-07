@@ -19,6 +19,7 @@ https://luizfboss.github.io/my_portfolio/
  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" />
  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" />
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg" />
  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
