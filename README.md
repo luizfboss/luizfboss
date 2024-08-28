@@ -7,8 +7,6 @@ https://luizfboss.github.io/my_portfolio/
 
 <div>
   <a href="https://github.com/luizfboss"><a/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfboss&layout=compact&langs_count=7&theme=github_dark&hide=jupyter%20notebook"/>
-  
 </div>
 <br>
 <div>
@@ -22,6 +20,10 @@ https://luizfboss.github.io/my_portfolio/
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg" />
  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+</div>
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfboss&layout=compact&langs_count=7&theme=github_dark&hide=jupyter%20notebook"/>
 </div>
 
 <br><br>
