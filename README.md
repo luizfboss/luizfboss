@@ -23,6 +23,7 @@ https://luizfboss.github.io/my_portfolio/
 </div>
 
 <div>
+  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfboss&layout=compact&langs_count=7&theme=github_dark&hide=jupyter%20notebook"/>
 </div>
 
