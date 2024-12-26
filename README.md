@@ -17,8 +17,9 @@ https://luizfboss.github.io/my_portfolio/
  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" />
- <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" />
+ <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" />
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg" />
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
@@ -32,7 +33,7 @@ https://luizfboss.github.io/my_portfolio/
 ```javascript
 const luiz = {
   pronouns: ["he", "him"],
-  languages: ["Javascript", "Python", "HTML", "CSS", "C++", "PHP", "SQL"],
+  languages: ["Javascript", "Python", "HTML", "CSS", "C++", "SQL"],
   tools: ["Pytorch", "Bootstrap", "Qiskit", "React", "Git", "VSCode", "Microsoft Excel"],
   current_occupation: "College Student",
   nationality: "Brazilian",
