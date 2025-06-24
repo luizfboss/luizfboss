@@ -38,7 +38,7 @@ const luiz = {
   current_occupation: "College Student",
   nationality: "Brazilian",
   hobbies: ["Read", "Code", "Travel", "Play the Guitar"],
-  current_challenge: "Land an Internship",
+  current_challenge: "Learn TypeScript",
   major_goal: "Become a Software Developer.",
   others: "Deep Learning"
 }
