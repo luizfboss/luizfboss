@@ -39,8 +39,7 @@ const luiz = {
   nationality: "Brazilian",
   hobbies: ["Read", "Code", "Travel", "Play the Guitar"],
   current_challenge: "Learn TypeScript",
-  major_goal: "Become a Software Developer.",
-  others: "Deep Learning"
+  major_goal: "Become a Software Developer."
 }
 ```
 
