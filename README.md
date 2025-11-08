@@ -32,12 +32,11 @@ https://luizfboss.github.io/my_portfolio/
 <br><br>
 ```javascript
 const luiz = {
-  pronouns: ["he", "him"],
   languages: ["Javascript", "Python", "HTML", "CSS", "C++", "SQL"],
-  tools: ["Pytorch", "Bootstrap", "Qiskit", "React", "Git", "VSCode", "Microsoft Excel"],
-  current_occupation: "College Student",
+  tools: ["Pytorch", "TypeScript", "ReactJS", "Git", "VSCode", "Excel", "Tableau"],
+  current_occupation: "College Student & UI/UX Intern @ GROWMARK",
   nationality: "Brazilian",
-  hobbies: ["Read", "Code", "Travel", "Play the Guitar"],
+  hobbies: ["Read", "Code", "Play the Guitar"],
   current_challenge: "Learn TypeScript",
   major_goal: "Become a Software Developer."
 }
